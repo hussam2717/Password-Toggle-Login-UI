@@ -1,7 +1,7 @@
 # Password-Toggle-Login-UI
 A clean and modern Login Form built using HTML, CSS, and JavaScript with a password visibility toggle feature.
 
-## Live Demo- 
+## Live Demo - https://hussam2717.github.io/Password-Toggle-Login-UI/
 
 ## ✨ Features
 - Modern and minimal UI
