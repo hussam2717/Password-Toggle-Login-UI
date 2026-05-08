@@ -9,3 +9,8 @@ A clean and modern Login Form built using HTML, CSS, and JavaScript with a passw
 - Show/Hide password functionality
 - Smooth input styling
 - Beginner-friendly project structure
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
