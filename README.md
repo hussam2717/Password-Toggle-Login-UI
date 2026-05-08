@@ -21,3 +21,8 @@ Simple login form with:
 - Password input
 - Eye icon to toggle password visibility
 - Stylish Sign In button
+
+## 📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
