@@ -14,3 +14,10 @@ A clean and modern Login Form built using HTML, CSS, and JavaScript with a passw
 - HTML5
 - CSS3
 - JavaScript
+
+## 📸 Preview
+Simple login form with:
+- Email input
+- Password input
+- Eye icon to toggle password visibility
+- Stylish Sign In button
