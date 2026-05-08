@@ -26,3 +26,9 @@ Simple login form with:
 ├── index.html
 ├── style.css
 ├── script.js
+
+💡 Learning Concepts
+DOM Manipulation
+Event Listeners
+Input field handling
+Responsive UI design
