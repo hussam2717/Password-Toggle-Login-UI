@@ -32,3 +32,9 @@ DOM Manipulation
 Event Listeners
 Input field handling
 Responsive UI design
+
+🌟 Future Improvements
+Add validation
+Add dark mode
+Connect with backend authentication
+Add animations
